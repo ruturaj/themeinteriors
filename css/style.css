@@ -46,7 +46,7 @@ body{
 .top-nav ul li {
 	display: inline-block;
 	float: left;
-	padding: 3% 5.6666%;
+	padding: 2% 2.6666%;
 }
 .top-nav li.active a, .top-nav li a:hover {
 	color:#000;
@@ -110,7 +110,7 @@ body{
 }
 .header-bottom{
 	background:#fff;
-	padding:20px 0;
+	padding:10px 0;
 }
 /*--content--*/
 /*  GRID OF FOUR   ============================================================================= */
